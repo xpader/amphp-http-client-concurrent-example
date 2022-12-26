@@ -1,0 +1,9 @@
+{
+    "name": "pader/amphp-http-client-concurrent-example",
+    "require": {
+        "amphp/pipeline": "^1.0",
+        "amphp/http-client": "v5.x-dev"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
